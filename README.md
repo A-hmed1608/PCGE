@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/images/bts-logo.png" alt="BTS Logo" width="300" />
+</div>
+
 # 📊 PCGE App (Plan Comptable Marocain)
 
 Une application mobile moderne développée avec **React Native (Expo)** pour naviguer facilement dans le Plan Comptable Général des Entreprises (PCGE) Marocain.
